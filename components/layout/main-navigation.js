@@ -1,8 +1,11 @@
 import Link from 'next/link';
 
+import Logo from './logo'
+import classes from './main-navigation.module.css'
+
 function MainNavigation() {
   return (
-    <Header>
+    <header className={classes.header}>
       <Link href='/'>
         <a>
           <Logo />
@@ -18,7 +21,7 @@ function MainNavigation() {
           </li>
         </ul>
       </nav>
-    </Header>
+    </header>
   );
 }
 
