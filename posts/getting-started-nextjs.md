@@ -1,7 +1,7 @@
 ---
 title: 'Getting Started'
 date: '2022-10-15'
-image: getting-started.png
+image: 'getting-started-nextjs.png'
 excerpt: 'This is a first post'
 isFeatured: true
 ---
