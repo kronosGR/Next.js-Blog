@@ -2,7 +2,7 @@
 
 * Components
 * Pages
-* markdown to HTML (react-markdown)
+* markdown to HTML (react-markdown), split Markdown to metadata and data(gray-matter)
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
